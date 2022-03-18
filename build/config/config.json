@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x63FE9689D9E7eEa90F1a19Cae70f1b9d7188e357",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x63FE9689D9E7eEa90F1a19Cae70f1b9d7188e357",
+  "NETWORK": {
+    "NAME": "ETH",
+    "SYMBOL": "eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Do4Love NFT",
+  "SYMBOL": "DFLC",
+  "MAX_SUPPLY": 666,
+  "WEI_COST": 60000000000000000,
+  "DISPLAY_COST": 0.06,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/do4love-club-htyigbu0tm",
+  "SHOW_BACKGROUND": true
+}
